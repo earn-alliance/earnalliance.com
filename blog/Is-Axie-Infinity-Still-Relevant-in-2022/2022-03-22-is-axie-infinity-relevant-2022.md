@@ -95,7 +95,7 @@ Whatever happens to the game, each Axie will undoubtedly retain some sort of uni
 
 ## Final Thoughts  
 
-Yes, we're in a blizzard. Those who have been playing and benefitting from Axie Infinity in the last year – players, scholars, scholarship owners, investors alike – are nervous about its future, and they have every reason to be.
+Yes, we're in a blizzard. Those who have been playing and benefitting from Axie Infinity in the last year – players, scholars, scholarship owners and investors alike – are nervous about its future, and they have every reason to be.
  
 So far Sky Mavis has fulfilled their promises in 2021. I'm excited to see if they're going to meet expectations this year, especially with the reveal of Origin at the end of the month. 
 
@@ -107,4 +107,4 @@ I may not know what happens to Axie Infinity (don't worry, I'm still optimistic)
 
 We started Earn Alliance, and built Earn Management, our first tool, to empower play-and-earn gaming communities to thrive in this constantly-evolving ecosystem, beyond Axie Infinity, beyond any one game or phenomenon. 
 
-There is much more terrain to explore, things to build, games to play, friends to be made. Check out our [roadmap](https://roadmap.earnalliance.com/ "roadmap") to see the plans we have in store, or [join us on Discord](https://discord.com/invite/GD65eQuVGz "join us on Discord") to be a part of our growing community.
+There is much more terrain to explore, things to build, games to play and friends to be made. Check out our [roadmap](https://roadmap.earnalliance.com/ "roadmap") to see the plans we have in store, or [join us on Discord](https://discord.com/invite/GD65eQuVGz "join us on Discord") to be a part of our growing community.
